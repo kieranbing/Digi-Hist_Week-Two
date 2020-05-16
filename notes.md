@@ -15,3 +15,4 @@
 <p> - $ wget.exe -r -np -w 2 --limit-rate=20k http://activehistory.ca/papers/  is taking longer to execute, but appears to be working fine. 
 <p> - The download went well. It took 17m 5s and I downloaded 128 files. 
 <p> - I used wget to download 4 images using a list of URLs.
+<p> - Played around with python to generate URLs. Spent some time getting to know Python since I've never used it. 
