@@ -1,1 +1,5 @@
-<H1> Journal </H1> 
+<H1> Journal </H1>
+<p> - Listened to the weekly podcast. </p> 
+<p> - I found the reading about “Topic Modeling Martha Ballard's Diary” to be fascinating. It had occurred to me before this class that the task of analyzing all the written works could be immense, but necessary to get good historical data. I really like the idea of using MALLET to analyze the language of the text to produce quantitative data instead of qualitative data one would obtain from reading the diaries. Later in the week I noted that that the other Kieran in this class had mentioned wanting to learn more about MALLET and how it works exactly, and I echo this sentiment. Luckily Dr. Graham replied saying we will be working with MALLET in week 4, so I have that to look forward to.  </p> 
+<p> - I found the paper about Bentham’s journals to be interesting as well.  The idea of using crowdsourcing to offset some of the cost of transposing historical records is an interesting one. It puts some of the ownership of historical research on the public.  </p> 
+<p> - Played around with the Anaconda PowerShell. </p>
